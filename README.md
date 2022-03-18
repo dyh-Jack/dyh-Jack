@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dyh52my
+- 👋 Hi, I’m @dyh
 - 👀 I’m interested in machine learning and CV
 - 🌱 I’m currently learning ML&CV
 - 💞️ I’m looking to collaborate on CV
